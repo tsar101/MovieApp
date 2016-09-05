@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by">Sort Movies By</string>
+    <string name="sort_by_title">Display movies in order of</string>
+    <string name="sort_by_dialog_title">Display movies in order of</string>
+    <string-array name="sort_by_options_values">
+        <item>popularity.asc</item>
+        <item>popularity.desc</item>
+        <item>release_date.asc</item>
+        <item>release_date.desc</item>
+        <item>revenue.asc</item>
+        <item>revenue.desc</item>
+        <item>primary_release_date.asc</item>
+        <item>primary_release_date.desc</item>
+        <item>original_title.asc</item>
+        <item>original_title.desc</item>
+        <item>vote_average.asc</item>
+        <item>vote_average.desc</item>
+        <item>vote_count.asc</item>
+        <item>vote_count.desc</item>
+    </string-array>
+    <string-array name="sort_by_options">
+        <item>popularity asc</item>
+        <item>popularity desc</item>
+        <item>release date asc</item>
+        <item>release date desc</item>
+        <item>revenue asc</item>
+        <item>revenue desc</item>
+        <item>primary release date asc</item>
+        <item>primary release date desc</item>
+        <item>original title asc</item>
+        <item>original title desc</item>
+        <item>vote average asc</item>
+        <item>vote average desc</item>
+        <item>vote count asc</item>
+        <item>vote count desc</item>
+    </string-array>
+</resources>
